@@ -1,4 +1,4 @@
-# Git Kata: 3-Way Merge
+# Git Kata: 3-Way Merge 
 
 ## Setup
 
@@ -19,6 +19,7 @@ You again live in your own branch, this time we will be doing a bit of juggling 
 9. Diff the branches
 10. Merge the greeting branch into master
 11. What is the output of `git log --oneline --graph --all` now? Observe the extra merge commit created with the message "Merge branch 'greeting'".
+12. end
 
 ## Useful commands
 
